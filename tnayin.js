@@ -1,4 +1,4 @@
-// Homework 6 - task 1
+Homework 6 - task 1
 // const myTimeout = (cb, seconds) => {
 //   setInterval(() => {
 //     cb();
@@ -9,6 +9,48 @@
 // }, 5);
 
 // Homework 6 - task 2
+// Tarberak 2.1
+// const squarePromise = (value) => {
+//   return new Promise((res, rej) => {
+//     if (typeof value === "number") {
+//       res(Math.pow(value, 2));
+//     } else if (typeof value === "string") {
+//       if (+value) k 6 - task 2
+// Tarberak 2.1
+// const squarePromise = (value) => {
+//   return new Promise((res, rej) => {
+//     if (typeof value === "number") {
+//       res(Math.pow(value, 2));
+//     } else if (typeof value === "string") {
+//       if (+value) k 6 - task 2
+// Tarberak 2.1
+// const squarePromise = (value) => {
+//   return new Promise((res, rej) => {
+//     if (typeof value === "number") {
+//       res(Math.pow(value, 2));
+//     } else if (typeof value === "string") {
+//       if (+value) k 6 - task 2
+// Tarberak 2.1
+// const squarePromise = (value) => {
+//   return new Promise((res, rej) => {
+//     if (typeof value === "number") {
+//       res(Math.pow(value, 2));
+//     } else if (typeof value === "string") {
+//       if (+value) k 6 - task 2
+// Tarberak 2.1
+// const squarePromise = (value) => {
+//   return new Promise((res, rej) => {
+//     if (typeof value === "number") {
+//       res(Math.pow(value, 2));
+//     } else if (typeof value === "string") {
+//       if (+value) k 6 - task 2
+// Tarberak 2.1
+// const squarePromise = (value) => {
+//   return new Promise((res, rej) => {
+//     if (typeof value === "number") {
+//       res(Math.pow(value, 2));
+//     } else if (typeof value === "string") {
+//       if (+value) k 6 - task 2
 // Tarberak 2.1
 // const squarePromise = (value) => {
 //   return new Promise((res, rej) => {
